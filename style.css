@@ -34,11 +34,11 @@ header{
     <home>{
         display: flex;
         justify-content: space-around;
-
+        text-align: center;
     }
     <Sobre>{
         display: flex;
-
+        text-align: center;
         justify-self: space-around;
         contato{
             display: flex;
@@ -47,7 +47,7 @@ header{
         <Serviços>{ 
             display: flex;
             justify-content: space-around;
-
+            text-align: center;
            Contato {
             display: flex;
             justify-content: space-around;
@@ -55,15 +55,17 @@ header{
             /*conteudo da página*/
             padding: 50px;
             text-align: center;<bem-vindo!/>
+            text-align: center;
             width: 50%;
             font: 30px;
             }
               section id=´´contato´´
+              text-align: center;
               h2<sobre nós>/h2>
               text-align: center;
               padding: 24px 0;
             }
-            section id=sobre
+            section id=sobrtext-align: center;
               h2<sobre nós>/h2>
               text-align: center;
               padding: 24px 0;
