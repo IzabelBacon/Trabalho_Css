@@ -30,12 +30,12 @@ header{
     padding: 20xp;
     text-aling:center;
 
-    home{
+    <home>{
         display: flex;
         justify-content: space-around;
 
     }
-    Sobre{
+    <Sobre>{
         display: flex;
 
         justify-self: space-around;
@@ -43,7 +43,7 @@ header{
             display: flex;
         justify-content: space-around;
 
-        Serviços{ 
+        <Serviços>{ 
             display: flex;
             justify-content: space-around;
 
