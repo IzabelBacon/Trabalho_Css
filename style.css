@@ -27,7 +27,7 @@ header{
 
     backgroud-color:#444
     padding: 20xp;
-    text-aling:space-around;
+    text-aling:center;
 
     home{
         display: flex;
