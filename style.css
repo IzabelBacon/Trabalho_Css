@@ -16,8 +16,9 @@ body {
 header {
     background-color: #000000;
     color: #000000;
+    width: 100%;
     padding: 20px;
-    text-align: space-around;
+    text-align:center;
 }
 /*menu de navegação*/
 {nav
