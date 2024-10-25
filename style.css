@@ -58,9 +58,11 @@ header {
               text-align: center;
               padding: 24px 0;
             }
+            section id=sobre
+              h2<sobre nós>/h2>
+              text-align: center;
+              padding: 24px 0;
 
-        }
+        
+    
 
-        }
-    }
-}
