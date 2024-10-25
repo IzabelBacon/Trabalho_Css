@@ -1,5 +1,5 @@
 /*estilos gerais*/
-{
+header{
     marning: 0;
     padding: 0;
     box-sizing: border-box;
@@ -23,7 +23,7 @@ header{
     text-align:center;
 }
 /*menu de navegação*/
-{nav
+{<nav
 
     backgroud-color:#444
     padding: 20xp;
