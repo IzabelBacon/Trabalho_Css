@@ -15,7 +15,6 @@ body {
 /*cabeçalho*/
 
 header{
-    background-color: #000000;
     color: #ffffff;
     width: 100%;
     padding: 20px;
@@ -34,7 +33,6 @@ header{
         text-aling:center;
     }
     <Sobre>{
-        display: flex;
         text-align: center;
         justify-self: space-around;
         contato{
