@@ -23,20 +23,14 @@ header{
 }
 /*menu de navegação*/
 {<nav ul
-
-    align-items: center;
-    display: flex;
     backgroud-color:#444
     width: 100%;
-    padding: 10px 20xp;
     text-aling:center;
 
     <home>{
-        align-items: center;
-        display: flex;
+
         justify-content: space-around;
         backgroud-color:#444
-        text-align: center;
         text-aling:center;
     }
     <Sobre>{
@@ -44,9 +38,6 @@ header{
         text-align: center;
         justify-self: space-around;
         contato{
-            display: flex;
-        justify-content: space-around;
-
         <Serviços>{ 
             display: flex;
             justify-content: space-around;
