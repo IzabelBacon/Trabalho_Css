@@ -19,14 +19,11 @@ header{
     color: #ffffff;
     width: 100%;
     padding: 20px;
-    text-align:center;
 }
 /*menu de navegação*/
 {<nav ul
     backgroud-color:#444
-    width: 100%;
-    text-aling:center;
-
+    width: 100%
     <home>{
 
         justify-content: space-around;
