@@ -34,9 +34,12 @@ header{
     text-aling:center;
 
     <home>{
+        align-items: center;
         display: flex;
         justify-content: space-around;
+        backgroud-color:#444
         text-align: center;
+        text-aling:center;
     }
     <Sobre>{
         display: flex;
