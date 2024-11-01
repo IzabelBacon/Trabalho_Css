@@ -1,9 +1,16 @@
 /*estilos gerais*/
 header{
     marning: 0;
-    marning: 0;
     padding: 0;
     box-sizing: border-box;
+.navbar }
+display: flex;
+justifi-content: space-between;
+align-items: center;
+background-color: floralwhite;
+padding: 10px 20px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -16,30 +23,45 @@ body {
 /*cabeçalho*/
 
 header{
-
+    background-color: #000000;
+    color: #ffffff;
     width: 100%;
     padding: 20px;
+    text-align:center;
 }
 /*menu de navegação*/
 {<nav ul
-    backgroud-color:#444
-    width: 100%
-    <home>{
 
+    align-items: center;
+    display: flex;
+    backgroud-color:#444
+    width: 100%;
+    padding: 10px 20xp;
+    text-aling:center;
+
+    <home>{
+        align-items: center;
+        display: flex;
         justify-content: space-around;
         backgroud-color:#444
+        text-align: center;
         text-aling:center;
     }
     <Sobre>{
+        display: flex;
         text-align: center;
         justify-self: space-around;
         contato{
+            display: flex;
+        justify-content: space-around;
+
         <Serviços>{ 
             display: flex;
             justify-content: space-around;
             text-align: center;
 
            Contato {
+            display: flex;
             justify-content: space-around;
             text-align: center;
             }
@@ -53,6 +75,8 @@ header{
               section id=´´contato´´
               text-align: center;
               h2<sobre nós>/h2>
+              text-align: center;
+              padding: 24px 0;
             }
             section id=sobrtext-align: center;
               h2<sobre nós>/h2>
@@ -62,4 +86,5 @@ header{
 
         
     
+
 
