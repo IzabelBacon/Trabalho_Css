@@ -26,9 +26,11 @@ header{
 /*menu de navegação*/
 {<nav ul
 
+    align-items: center;
+    display: flex;
     backgroud-color:#444
     width: 100%;
-    padding: 20xp;
+    padding: 10px 20xp;
     text-aling:center;
 
     <home>{
