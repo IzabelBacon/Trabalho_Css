@@ -12,14 +12,7 @@ body {
     width: 100%;
     color: #333;
     background-color: #00f7ff;
-/* Estilos da barra de navegação */
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #fff;
-    padding: 10px 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
 }
 /*cabeçalho*/
 
