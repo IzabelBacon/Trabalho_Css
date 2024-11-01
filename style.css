@@ -1,16 +1,10 @@
-/*estilos gerais*/
+*estilos gerais*/
 header{
     marning: 0;
     padding: 0;
     box-sizing: border-box;
-.navbar }
-display: flex;
-justifi-content: space-between;
-align-items: center;
-background-color: floralwhite;
-padding: 10px 20px;
-box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -32,20 +26,15 @@ header{
 /*menu de navegação*/
 {<nav ul
 
-    align-items: center;
-    display: flex;
     backgroud-color:#444
     width: 100%;
-    padding: 10px 20xp;
+    padding: 20xp;
     text-aling:center;
 
     <home>{
-        align-items: center;
         display: flex;
         justify-content: space-around;
-        backgroud-color:#444
         text-align: center;
-        text-aling:center;
     }
     <Sobre>{
         display: flex;
@@ -59,11 +48,9 @@ header{
             display: flex;
             justify-content: space-around;
             text-align: center;
-
            Contato {
             display: flex;
             justify-content: space-around;
-            text-align: center;
             }
             /*conteudo da página*/
             padding: 50px;
@@ -83,6 +70,9 @@ header{
               text-align: center;
               padding: 24px 0;
               font: 30px;
+
+        
+    
 
         
     
