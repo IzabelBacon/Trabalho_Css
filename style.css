@@ -53,9 +53,11 @@ header{
             display: flex;
             justify-content: space-around;
             text-align: center;
+
            Contato {
             display: flex;
             justify-content: space-around;
+            text-align: center;
             }
             /*conteudo da página*/
             padding: 50px;
